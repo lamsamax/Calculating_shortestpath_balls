@@ -1,0 +1,342 @@
+Shortest paths from source B:
+Distance B -> C: No path
+Distance B -> D: No path
+Distance B -> E: No path
+Distance B -> F: No path
+Distance B -> G: No path
+Distance B -> H: No path
+Distance B -> I: No path
+Distance B -> J: No path
+Distance B -> K: No path
+Distance B -> L: No path
+Distance B -> M: No path
+Distance B -> N: No path
+Distance B -> O: No path
+Distance B -> P: -1
+Distance B -> Q: -1
+Distance B -> R: -1
+Distance B -> S: -1
+
+Shortest paths from source C:
+Distance C -> B: 175
+Distance C -> D: 32
+Distance C -> E: 76
+Distance C -> F: 106
+Distance C -> G: 127
+Distance C -> H: 16
+Distance C -> I: 115
+Distance C -> J: 108
+Distance C -> K: 64
+Distance C -> L: 165
+Distance C -> M: 131
+Distance C -> N: 94
+Distance C -> O: 82
+Distance C -> P: -1
+Distance C -> Q: -1
+Distance C -> R: -1
+Distance C -> S: -1
+
+Shortest paths from source D:
+Distance D -> B: 143
+Distance D -> C: 86
+Distance D -> E: 44
+Distance D -> F: 139
+Distance D -> G: 95
+Distance D -> H: 102
+Distance D -> I: 135
+Distance D -> J: 141
+Distance D -> K: 97
+Distance D -> L: 133
+Distance D -> M: 99
+Distance D -> N: 62
+Distance D -> O: 139
+Distance D -> P: -1
+Distance D -> Q: -1
+Distance D -> R: -1
+Distance D -> S: -1
+
+Shortest paths from source E:
+Distance E -> B: 99
+Distance E -> C: 42
+Distance E -> D: 74
+Distance E -> F: 95
+Distance E -> G: 51
+Distance E -> H: 58
+Distance E -> I: 91
+Distance E -> J: 97
+Distance E -> K: 53
+Distance E -> L: 89
+Distance E -> M: 55
+Distance E -> N: 18
+Distance E -> O: 95
+Distance E -> P: -1
+Distance E -> Q: -1
+Distance E -> R: -1
+Distance E -> S: -1
+
+Shortest paths from source F:
+Distance F -> B: 185
+Distance F -> C: 13
+Distance F -> D: 45
+Distance F -> E: 89
+Distance F -> G: 140
+Distance F -> H: 29
+Distance F -> I: 42
+Distance F -> J: 121
+Distance F -> K: 77
+Distance F -> L: 141
+Distance F -> M: 144
+Distance F -> N: 107
+Distance F -> O: 95
+Distance F -> P: -1
+Distance F -> Q: -1
+Distance F -> R: -1
+Distance F -> S: -1
+
+Shortest paths from source G:
+Distance G -> B: 141
+Distance G -> C: 2
+Distance G -> D: 34
+Distance G -> E: 78
+Distance G -> F: 108
+Distance G -> H: 18
+Distance G -> I: 117
+Distance G -> J: 110
+Distance G -> K: 66
+Distance G -> L: 167
+Distance G -> M: 133
+Distance G -> N: 60
+Distance G -> O: 84
+Distance G -> P: -1
+Distance G -> Q: -1
+Distance G -> R: -1
+Distance G -> S: -1
+
+Shortest paths from source H:
+Distance H -> B: 284
+Distance H -> C: 109
+Distance H -> D: 141
+Distance H -> E: 185
+Distance H -> F: 212
+Distance H -> G: 236
+Distance H -> I: 99
+Distance H -> J: 173
+Distance H -> K: 173
+Distance H -> L: 274
+Distance H -> M: 128
+Distance H -> N: 203
+Distance H -> O: 66
+Distance H -> P: -1
+Distance H -> Q: -1
+Distance H -> R: -1
+Distance H -> S: -1
+
+Shortest paths from source I:
+Distance I -> B: 331
+Distance I -> C: 156
+Distance I -> D: 188
+Distance I -> E: 232
+Distance I -> F: 259
+Distance I -> G: 283
+Distance I -> H: 47
+Distance I -> J: 220
+Distance I -> K: 220
+Distance I -> L: 321
+Distance I -> M: 175
+Distance I -> N: 250
+Distance I -> O: 87
+Distance I -> P: -1
+Distance I -> Q: -1
+Distance I -> R: -1
+Distance I -> S: -1
+
+Shortest paths from source J:
+Distance J -> B: 137
+Distance J -> C: 30
+Distance J -> D: 62
+Distance J -> E: 38
+Distance J -> F: 39
+Distance J -> G: 89
+Distance J -> H: 46
+Distance J -> I: 81
+Distance J -> K: 91
+Distance J -> L: 127
+Distance J -> M: 49
+Distance J -> N: 56
+Distance J -> O: 83
+Distance J -> P: -1
+Distance J -> Q: -1
+Distance J -> R: -1
+Distance J -> S: -1
+
+Shortest paths from source K:
+Distance K -> B: 181
+Distance K -> C: 55
+Distance K -> D: 87
+Distance K -> E: 82
+Distance K -> F: 42
+Distance K -> G: 133
+Distance K -> H: 71
+Distance K -> I: 84
+Distance K -> J: 44
+Distance K -> L: 171
+Distance K -> M: 93
+Distance K -> N: 100
+Distance K -> O: 127
+Distance K -> P: -1
+Distance K -> Q: -1
+Distance K -> R: -1
+Distance K -> S: -1
+
+Shortest paths from source L:
+Distance L -> B: 44
+Distance L -> C: 14
+Distance L -> D: 46
+Distance L -> E: 90
+Distance L -> F: 120
+Distance L -> G: 141
+Distance L -> H: 30
+Distance L -> I: 129
+Distance L -> J: 122
+Distance L -> K: 78
+Distance L -> M: 145
+Distance L -> N: 108
+Distance L -> O: 96
+Distance L -> P: -1
+Distance L -> Q: -1
+Distance L -> R: -1
+Distance L -> S: -1
+
+Shortest paths from source M:
+Distance M -> B: 182
+Distance M -> C: 75
+Distance M -> D: 107
+Distance M -> E: 83
+Distance M -> F: 84
+Distance M -> G: 134
+Distance M -> H: 91
+Distance M -> I: 126
+Distance M -> J: 45
+Distance M -> K: 136
+Distance M -> L: 172
+Distance M -> N: 101
+Distance M -> O: 128
+Distance M -> P: -1
+Distance M -> Q: -1
+Distance M -> R: -1
+Distance M -> S: -1
+
+Shortest paths from source N:
+Distance N -> B: 81
+Distance N -> C: No path
+Distance N -> D: No path
+Distance N -> E: No path
+Distance N -> F: No path
+Distance N -> G: No path
+Distance N -> H: No path
+Distance N -> I: No path
+Distance N -> J: No path
+Distance N -> K: No path
+Distance N -> L: No path
+Distance N -> M: No path
+Distance N -> O: No path
+Distance N -> P: -1
+Distance N -> Q: -1
+Distance N -> R: -1
+Distance N -> S: -1
+
+Shortest paths from source O:
+Distance O -> B: 364
+Distance O -> C: 189
+Distance O -> D: 221
+Distance O -> E: 265
+Distance O -> F: 292
+Distance O -> G: 316
+Distance O -> H: 80
+Distance O -> I: 33
+Distance O -> J: 253
+Distance O -> K: 253
+Distance O -> L: 354
+Distance O -> M: 208
+Distance O -> N: 283
+Distance O -> P: -1
+Distance O -> Q: -1
+Distance O -> R: -1
+Distance O -> S: -1
+
+Shortest paths from source P:
+Distance P -> B: -1
+Distance P -> C: -1
+Distance P -> D: -1
+Distance P -> E: -1
+Distance P -> F: -1
+Distance P -> G: -1
+Distance P -> H: -1
+Distance P -> I: -1
+Distance P -> J: -1
+Distance P -> K: -1
+Distance P -> L: -1
+Distance P -> M: -1
+Distance P -> N: -1
+Distance P -> O: -1
+Distance P -> Q: -1
+Distance P -> R: -1
+Distance P -> S: -1
+
+Shortest paths from source Q:
+Distance Q -> B: -1
+Distance Q -> C: -1
+Distance Q -> D: -1
+Distance Q -> E: -1
+Distance Q -> F: -1
+Distance Q -> G: -1
+Distance Q -> H: -1
+Distance Q -> I: -1
+Distance Q -> J: -1
+Distance Q -> K: -1
+Distance Q -> L: -1
+Distance Q -> M: -1
+Distance Q -> N: -1
+Distance Q -> O: -1
+Distance Q -> P: -1
+Distance Q -> R: -1
+Distance Q -> S: -1
+
+Shortest paths from source R:
+Distance R -> B: -1
+Distance R -> C: -1
+Distance R -> D: -1
+Distance R -> E: -1
+Distance R -> F: -1
+Distance R -> G: -1
+Distance R -> H: -1
+Distance R -> I: -1
+Distance R -> J: -1
+Distance R -> K: -1
+Distance R -> L: -1
+Distance R -> M: -1
+Distance R -> N: -1
+Distance R -> O: -1
+Distance R -> P: -1
+Distance R -> Q: -1
+Distance R -> S: -1
+
+Shortest paths from source S:
+Distance S -> B: -1
+Distance S -> C: -1
+Distance S -> D: -1
+Distance S -> E: -1
+Distance S -> F: -1
+Distance S -> G: -1
+Distance S -> H: -1
+Distance S -> I: -1
+Distance S -> J: -1
+Distance S -> K: -1
+Distance S -> L: -1
+Distance S -> M: -1
+Distance S -> N: -1
+Distance S -> O: -1
+Distance S -> P: -1
+Distance S -> Q: -1
+Distance S -> R: -1
+
